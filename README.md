@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leandro</h1>
+<h1 align="left">Hi 👋, I'm Leandro</h1>
 <h3 align="center">Software architect and enthusiastic about some stacks: .net, angular, nodejs, flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrodpaula&label=Profile%20views&color=0e75b6&style=flat" alt="leandrodpaula" /> </p>
